@@ -1,0 +1,15 @@
+C:\Users\ilruz\source\repos\4лаба\4лаба\bin\Debug\net6.0\4лаба.exe
+C:\Users\ilruz\source\repos\4лаба\4лаба\bin\Debug\net6.0\4лаба.deps.json
+C:\Users\ilruz\source\repos\4лаба\4лаба\bin\Debug\net6.0\4лаба.runtimeconfig.json
+C:\Users\ilruz\source\repos\4лаба\4лаба\bin\Debug\net6.0\4лаба.dll
+C:\Users\ilruz\source\repos\4лаба\4лаба\bin\Debug\net6.0\4лаба.pdb
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.dll
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\refint\4лаба.dll
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.pdb
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\4лаба.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\4лаба\4лаба\obj\Debug\net6.0\ref\4лаба.dll
